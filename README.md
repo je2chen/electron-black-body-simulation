@@ -10,7 +10,7 @@
 
 The project provides the source code of simulation used in the [letter](https://www.pnas.org/doi/10.1073/pnas.2209670120).  More information about the algorithm could be found in the Appendix file and the [article](https://aip.scitation.org/doi/10.1063/1.3033564). The project mainly contains three parts: elastic scattering, inelastic scattering and the Monte Carlo calculation. The basic progress could be summarized as the following flowchart.
 
-<img src="C:\Users\202_D3\AppData\Roaming\Typora\typora-user-images\image-20230217143503056.png" alt="image-20230217143503056" style="zoom: 33%;" />
+<img src="./flowchart.jpg" style="zoom: 33%;" />
 
 ## Requirement
 
