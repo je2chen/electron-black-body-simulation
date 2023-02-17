@@ -14,7 +14,7 @@ The project provides the source code of simulation used in the [letter](https://
 
 ## Requirement
 
-The project is based on [Python 3.6](https://www.python.org/) 3.6 and we recommend to use [Anaconda](https://www.anaconda.com/) to create corresponding python environment.  The packages used by the project contains
+The project is based on [Python 3.6](https://www.python.org/) and we recommend to use [Anaconda](https://www.anaconda.com/) to create corresponding python environment.  The packages used by the project contains
 
 * [NumPy](https://numpy.org/), 1.19.2 or later
 * [SciPy](https://scipy.org/),1.5.2 or later
