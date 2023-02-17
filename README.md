@@ -2,9 +2,9 @@
 
 ## Table of contents
 
-* [General Info](## General Info)
-* [Requirement](## Requirement)
-* [How To Use](## How To Use)
+* [General Info](#GeneralInfo)
+* [Requirement](#Requirement)
+* [How To Use](#HowToUse)
 
 ## General Info 
 
