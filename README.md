@@ -25,7 +25,7 @@ The program is tested on windows 10 system, and with Intel(R) Xeon(R) CPU E5-269
 
 
 
-##Usage
+## Usage
 
 As mentioned above, the MC progress requires databases of both the elastic scattering progress and inelastic scattering progress. Both of them could be download from Tsinghua cloud https://cloud.tsinghua.edu.cn/d/15d943540f58496992a9/. Then just copy the 'database' folder in your project path. If you want to build the databases by yourself, make a new folder and name it as 'database'. Then every material could be added by create a new folder and add corresponding elastic and inelastic scattering database file.
 
