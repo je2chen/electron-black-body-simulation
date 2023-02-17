@@ -2,11 +2,11 @@
 
 ## Table of contents
 
-* [General Info](#General Info)
+* [Introduction](#Introduction)
 * [Requirement](#Requirement)
-* [How To Use](#How To Use)
+* [Usage](#Usage)
 
-## General Info
+## Introduction
 
 The project provides the source code of simulation used in the [letter](https://www.pnas.org/doi/10.1073/pnas.2209670120).  More information about the algorithm could be found in the Appendix file and the [article](https://aip.scitation.org/doi/10.1063/1.3033564). The project mainly contains three parts: elastic scattering, inelastic scattering and the Monte Carlo calculation. The basic progress could be summarized as the following flowchart.
 
@@ -25,7 +25,7 @@ The program is tested on windows 10 system, and with Intel(R) Xeon(R) CPU E5-269
 
 
 
-## How To Use
+##Usage
 
 As mentioned above, the MC progress requires databases of both the elastic scattering progress and inelastic scattering progress. Both of them could be download from Tsinghua cloud https://cloud.tsinghua.edu.cn/d/15d943540f58496992a9/. Then just copy the 'database' folder in your project path. If you want to build the databases by yourself, make a new folder and name it as 'database'. Then every material could be added by create a new folder and add corresponding elastic and inelastic scattering database file.
 
